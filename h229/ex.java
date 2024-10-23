@@ -1,4 +1,4 @@
-public class hello
+public class bow
 {
 public static void main(string[] args)
 {
